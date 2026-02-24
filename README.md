@@ -1,2 +1,2 @@
-# Compro2-Barbiebell
+# Compro2-Nabila Zakia
 Materi kelas computer programming 2 python
